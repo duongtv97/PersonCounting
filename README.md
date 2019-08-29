@@ -12,6 +12,8 @@ Một vài yêu cầu khác về thư viện, framework:
 * tensorflow 1.12.0
 * keras 2.1.5
 # Cài đặt
+Link tải file model: [Model](https://drive.google.com/drive/folders/1N6rZx481kLOZ4d7Wa2EAZzmgLdhT9eRF?usp=sharing)
+Link tải dataset và annotate tương ứng: 
 Có 2 file mà bạn cần quan tâm và lưu ý
 darknet_skipframe.py và evaluate.py
 darknet_skipframe.py đây là file code chứa nội dung chính của đề tài, input sẽ là 1 đoạn video, output sẽ là video (chứa số lượng người và biểu đồ nhiệt được minh họa trực tiếp trên video).
