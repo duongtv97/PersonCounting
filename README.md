@@ -34,9 +34,15 @@ Bên trong file darknet_skipframe.py đã chứa đẩy đủ document giải th
 
 # Tổng quan về các file quan trọng khác
 detection.py: Detection base class.
+
 kalman_filter.py: A Kalman filter implementation and concrete parametrization for image space filtering.
+
 linear_assignment.py: This module contains code for min cost matching and the matching cascade.
+
 iou_matching.py: This module contains the IOU matching metric.
+
 nn_matching.py: A module for a nearest neighbor matching metric.
+
 track.py: The track class contains single-target track data such as Kalman state, number of hits, misses, hit streak, associated feature vectors, etc.
+
 tracker.py: This is the multi-target tracker class.
