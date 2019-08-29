@@ -18,6 +18,7 @@ darknet_skipframe.py đây là file code chứa nội dung chính của đề t�
 evaluate.py sẽ là file chứa code để đánh giá hệ thống.
 ## Chạy chương trình chính
 Theo dõi cách chạy chương trình sau đây:
+
 **darknet_skipframe.py**
 Cách nhập đầu vào cho chương trình:
 python darknet_skipframe.py \
@@ -26,6 +27,7 @@ python darknet_skipframe.py \
 --maxAge = 100 
 
 Bên trong file darknet_skipframe.py đã chứa đẩy đủ document giải thích code.
+
 **evalute.py**
 
 # Tổng quan về các file quan trọng khác
